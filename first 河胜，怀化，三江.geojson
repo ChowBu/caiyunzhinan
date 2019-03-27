@@ -35,7 +35,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "怀化"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
