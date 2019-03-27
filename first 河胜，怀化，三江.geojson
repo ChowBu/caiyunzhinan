@@ -168,7 +168,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "镇远",
-        "step4": ""
+        "step": 4
       },
       "geometry": {
         "type": "Point",
@@ -217,8 +217,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "中国国际旅行社",
-        "step": 5
+        "name": "中国旅行社",
+        "step": 5,
+        "desc": "唯一获得授权组织乘船游河的单位"
       },
       "geometry": {
         "type": "Point",
