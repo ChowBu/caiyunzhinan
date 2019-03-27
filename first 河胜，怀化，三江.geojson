@@ -7,7 +7,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "河胜"
+        "name": "河胜",
+        "step": 1
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "三江"
+        "name": "三江",
+        "step": 1
       },
       "geometry": {
         "type": "Point",
@@ -156,6 +158,73 @@
             109.55188751220703,
             25.784589734547783
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "镇远",
+        "step4": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.40682029724121,
+          27.037339565561002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.97039794921874,
+            27.559416878865445
+          ],
+          [
+            109.51858520507811,
+            27.424195097553206
+          ],
+          [
+            109.32769775390625,
+            27.341274597906803
+          ],
+          [
+            109.083251953125,
+            27.33029517000439
+          ],
+          [
+            108.7261962890625,
+            27.11781284232125
+          ],
+          [
+            108.40707778930664,
+            27.037416015827848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "中国国际旅行社",
+        "step": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.42098772525787,
+          27.05358885468136
         ]
       }
     }
