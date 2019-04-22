@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "step": 1,
+        "name": "宜良",
+        "desc": "从昆明到石林的中途站",
+        "paragraph": "",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.15423965454102,
+          24.922091571308332
+        ]
+      }
+    }
+  ]
+}
