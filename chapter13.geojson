@@ -19,6 +19,44 @@
           24.970886505471068
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "step": 2,
+        "name": "太华寺",
+        "desc": "这里有18罗汉",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.62951374053955,
+          24.96201613727272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "step": 3,
+        "name": "聂耳墓",
+        "desc": "",
+        "story": "聂耳曾是中国的一位年轻音乐家，1935年在日本度假时溺水而亡，年仅23岁。虽然年轻，聂耳却是中国最著名的音乐家之一，他创作的《义勇军进行曲》从1949年起一直作为中国的国歌。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.63359069824219,
+          24.95838318681486
+        ]
+      }
     }
   ]
 }
