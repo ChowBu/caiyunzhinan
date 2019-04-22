@@ -5,11 +5,10 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "step": 1,
         "name": "华亭寺",
         "desc": "",
+        "paragraph": "",
         "story": "该寺是西山最大的佛寺，由两位身材魁梧、怒目圆睁的塑像把守着。两位的名字分别叫作“哼”“哈”，有关他们的故事则要追溯到周代之前的商代，那时碧鸡尚未飞临此地。哼哈两人是商王的将军，都拥有超自然的神奇法力。哼将军可以从鼻孔中喷出火焰摧毁敌人，而哈将军可凭借口中呼出的毒气制敌。虽然法力在身，两位还是被成功地推翻商朝建立周朝的诸侯国所杀。但是周朝敬仰这两位伟大的敌手，封他们为护法神，后来被佛教供奉为寺庙的护法神。华亭寺外矗立的哼哈二将是全中国最好的哼哈二将雕塑。"
       },
       "geometry": {
@@ -23,12 +22,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
+        "marker-color": "#7e7e7e",
         "step": 2,
         "name": "太华寺",
         "desc": "这里有18罗汉",
+        "paragraph": "",
         "story": ""
       },
       "geometry": {
@@ -43,11 +43,10 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "step": 3,
         "name": "聂耳墓",
         "desc": "",
+        "paragraph": "",
         "story": "聂耳曾是中国的一位年轻音乐家，1935年在日本度假时溺水而亡，年仅23岁。虽然年轻，聂耳却是中国最著名的音乐家之一，他创作的《义勇军进行曲》从1949年起一直作为中国的国歌。"
       },
       "geometry": {
@@ -61,12 +60,13 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "step": 3,
+        "marker-color": "#7e7e7e",
+        "step": 4,
         "name": "三清阁",
         "desc": "",
+        "paragraph": "",
         "story": "三清阁实际上是一排沿着崖壁而建的五六栋建筑。14世纪初期，这里是为一位蒙古王子建的夏宫。彼时，蒙古人刚刚把亚洲的这片土地纳入中国的势力范围，王子被派到这里管理这片中国西南新疆域。楼阁后来被道士接管使用，现在则属于游客了。我随着他们的脚步，沿着在昆明西山的崖壁上穿凿而成的石梯拾级而上。石梯的开凿始于两百年前，当时一位闲来无事的道士决定凿通崖壁，去更高处的一块岩石栖息。他还没有完成大业就辞世而去，但后人继续了他的工作。我挤过人群，来到他们在山顶下面凿成的洞里。这里就是龙门。"
       },
       "geometry": {
