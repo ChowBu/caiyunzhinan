@@ -96,6 +96,26 @@
           25.065264714984004
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "step": 6,
+        "name": "云南省博物馆",
+        "desc": "",
+        "paragraph": "",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.75336742401123,
+          24.94956541942487
+        ]
+      }
     }
   ]
 }
