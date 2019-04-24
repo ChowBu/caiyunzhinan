@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "step": 2,
+        "name": "东巴文化研究所",
+        "desc": "",
+        "paragraph": "",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2353847026825,
+          26.88237806113649
+        ]
+      }
+    }
+  ]
+}
